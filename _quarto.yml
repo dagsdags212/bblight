@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "bblight"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/dagsdags212
+      - icon: twitter
+        href: https://x.com/dagsdags13
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
