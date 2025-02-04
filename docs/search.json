@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "bblight",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 4, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Bacterial Blight and its Pathogens\n\n\n\n\n\n\n\n\n\n\n\nFeb 4, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,40 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "notes/post-with-code/index.html",
+    "href": "notes/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "notes/xoo-overview/index.html",
+    "href": "notes/xoo-overview/index.html",
+    "title": "Bacterial Blight and its Pathogens",
+    "section": "",
+    "text": "Bacterial blight (BB) is a destructive disease in rice caused by the gram-negative bacterium Xanthomonas oryzae. There are two main pathovars of interest: pv. oryzae (Xoo) and pv. oryzicola. The former enters the rice plant through hydathodes or wounds, multiples in the intercellular spaces of the underlying epitheme, and propagate to reach the xylem vessels. The latter penetrates the leaf through stomata or wounds, multiplies in the substomatal cavity, and colonizes the intercellular spaces of the parenchyma."
+  },
+  {
+    "objectID": "notes/welcome/index.html",
+    "href": "notes/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "notes/xoo-overview/index.html#disease-resistance-genes-and-the-interactions",
+    "href": "notes/xoo-overview/index.html#disease-resistance-genes-and-the-interactions",
+    "title": "Bacterial Blight and its Pathogens",
+    "section": "Disease Resistance Genes and the Interactions",
+    "text": "Disease Resistance Genes and the Interactions\nTo date, more than 40 resistance (R) genes conferring host resistance to various strains of Xoo have been identified and 11 of them were cloned, namely:\n\n\n\nTable 1: Cloned rice R genes and the cognate Xanthomonas oryzae Avr genes.\n\n\n\n\n\n\n\n\n\n\n\n\nR genes\nEncoding protein\nCognate Avr genes\nEncoding protein\nReference\n\n\n\n\nXa3/Xa26\nLRR-RLK\nAvrXa3\nUnknown\n\n\n\nXa21\nLRR-RLK\nRaxX\nUnknown\n\n\n\nXa4\nWall-associated kinase/RLK\nNot determined\nUnknown\n\n\n\nxa13 (OsSWEET11)\nSWEET-type protein\nPthXo1\nTAL effector\n\n\n\nxa25 (OsSWEET13)\nSWEET-type protein\nPthXo2\nTAL effector\n\n\n\nxa41 (OsSWEET14)\nSWEET-type protein\nAvrXa7/PthXo3/TalC/Tal5\nTAL effector\n\n\n\nXa10\nExecutor R Protein\nAvrXa10\nTAL effector\n\n\n\nXa23\nExecutor R Protein\nAvrXa23\nTAL effector\n\n\n\nXa27\nExecutor R Protein\nAvrXa27\nTAL effector\n\n\n\nXa1\nNLR\nPthXo1/Tal4/Tal9d\nTAL effector\n\n\n\nxa5\nTFIIA transcription factor\nAfrxa5/PthXo7\nTAL effector\n\n\n\nRxo1\nNLR\nAvrRxo1\nTAL effector\n\n\n\n\n\n\n\nThe genes listed in Table 1 are classified into four groups based on their encoding proteins:\n\nreceptor-like kinase (RLK) genes (Xa21, Xa3/Xa26, Xa4)\nsugar will eventually be exported transported (SWEET) genes (xa13, xa25, xa41)\nexecutor genes (xa10, Xa23, Xa27)\nother types of genes (Xa1, xa5)\n\n\nReceptor-Like Kinase (RLK) Genes\n\naids in recognizing pathogen-associated molecular patterns (PAMPs)\ntypically contains:\n\nextracellular domain\nsingle-pass transmembrane domain\nintracellular kinase domain\n\nLRR-RLK gene Xa21 originated from Oryza longistaminata, a wild rice species\n\nconfers broad-spectrum resistance to Xoo\n\nXa3/Xa26 interacts with OsSERK2 and OsTPI1.1 to mediate resistance\nXa4 encodes a cell wall-associated kinase that confers race-specific resistance to Xoo at all stages of rice growth\n\nfound the almost all indica hybrid rice cultivars in China\nprevents Xoo invasion by reinforcing the call wall with phytoalexins, sakuranetin, and momilactone A\ncan increase mechanical strength of the culm to enhance lodging tolerance\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\nSugar Will Eventually be Exported Transporter (SWEET) Genes\n\nencode for a family of sugar efflux transporters\nplay a vital role in pollen nutrition, senescence, seed filling, and plant-pathogen interaction\nthere are 22 SWEET genes in rice which are grouped into four clades\nhijacked by TAL effectors of the pathogen for their growth and virulence\nxa13 (or Os8N3, OsSWEET11) confers specific resistance to Xoo race 6\n\ndominant allele (Xa13) is needed by Xoo (and Rhizoctonia solani) to promote the expression of its TALE effector\nrecessive allele (xa13) does not induce expression\nalso cooperates with copper transporters (COPT1, COPT5) to remove toxic Cu from xylem vessels where the pathogen multiplies and spreads\nXa13-silenced plants had low fertility, implicating its role in pollination\n\nXa25 (or OsSWEET13) confers race-specific resistance to Xoo strain PXO339\nXa41 (or Os11N3, OsSWEET14) is the susceptibility gene for different Xoo strains\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\nExecutor Genes\n\nXa27, Xa10, and Xa23 function as promoter traps which are activated by TALEs and trigger defense responses\n\nXa27 from O. minuta confers broad-spectrum resistance\nXa10 confers resistance to some Philippine races\nXa23 from O. rufipogon confers extremely broad spectrum resistance at all growth stages of rice\n\n\n\n\nOther Genes\n\nXa1 from japonica cultivar is the only cloned gene that confers Xoo resistanec in the rice genome"
+  },
+  {
+    "objectID": "notes/xoo-overview/index.html#overview",
+    "href": "notes/xoo-overview/index.html#overview",
+    "title": "Bacterial Blight and its Pathogens",
+    "section": "",
+    "text": "Bacterial blight (BB) is a destructive disease in rice caused by the gram-negative bacterium Xanthomonas oryzae. There are two main pathovars of interest: pv. oryzae (Xoo) and pv. oryzicola. The former enters the rice plant through hydathodes or wounds, multiples in the intercellular spaces of the underlying epitheme, and propagate to reach the xylem vessels. The latter penetrates the leaf through stomata or wounds, multiplies in the substomatal cavity, and colonizes the intercellular spaces of the parenchyma."
   }
 ]

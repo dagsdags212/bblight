@@ -1,0 +1,79 @@
+---
+title: Bacterial Blight and its Pathogens
+date: 2025-02-04
+---
+
+## Overview
+
+Bacterial blight (BB) is a destructive disease in rice caused by the gram-negative bacterium _Xanthomonas oryzae_. There are two main pathovars of interest: pv. _oryzae_ (Xoo) and pv. _oryzicola_. The former enters the rice plant through hydathodes or wounds, multiples in the intercellular spaces of the underlying epitheme, and propagate to reach the xylem vessels. The latter penetrates the leaf through stomata or wounds, multiplies in the substomatal cavity, and colonizes the intercellular spaces of the parenchyma.
+
+## Disease Resistance Genes and the Interactions
+
+To date, more than 40 resistance (_R_) genes conferring host resistance to various strains of _Xoo_ have been identified and 11 of them were cloned, namely:
+
+| _R_ genes | Encoding protein | Cognate _Avr_ genes | Encoding protein | Reference |
+| :-----------: | :----------: | :----------: | :----------: | :----------: |
+| _Xa3/Xa26_ | LRR-RLK | _AvrXa3_| Unknown|  |
+| _Xa21_ | LRR-RLK | _RaxX_ | Unknown |  |
+| _Xa4_ | Wall-associated kinase/RLK | Not determined | Unknown |  |
+| _xa13 (OsSWEET11)_  | SWEET-type protein | _PthXo1_ | TAL effector |  |
+| _xa25 (OsSWEET13)_  | SWEET-type protein | _PthXo2_ | TAL effector |  |
+| _xa41 (OsSWEET14)_  | SWEET-type protein | _AvrXa7/PthXo3/TalC/Tal5_ | TAL effector |  |
+| _Xa10_ | Executor R Protein | _AvrXa10_ | TAL effector | |
+| _Xa23_ | Executor R Protein | _AvrXa23_ | TAL effector | |
+| _Xa27_ | Executor R Protein | _AvrXa27_ | TAL effector | |
+| _Xa1_ | NLR | _PthXo1/Tal4/Tal9d_ | TAL effector | |
+| _xa5_ | TFIIA transcription factor | _Afrxa5/PthXo7_ | TAL effector | |
+| _Rxo1_ | NLR | _AvrRxo1_ | TAL effector | |
+: Cloned rice _R_ genes and the cognate _Xanthomonas oryzae Avr_ genes. {#tbl-cloned-r-genes .hover}
+
+The genes listed in @tbl-cloned-r-genes are classified into four groups based on their encoding proteins:
+
+1. receptor-like kinase (RLK) genes (_Xa21_, _Xa3/Xa26_, _Xa4_)
+2. sugar will eventually be exported transported (SWEET) genes (_xa13_, _xa25_, _xa41_)
+3. executor genes (_xa10_, _Xa23_, _Xa27_)
+4. other types of genes (_Xa1_, _xa5_)
+
+### Receptor-Like Kinase (RLK) Genes
+
+- aids in recognizing pathogen-associated molecular patterns (PAMPs)
+- typically contains:
+  + extracellular domain
+  + single-pass transmembrane domain
+  + intracellular kinase domain
+- LRR-RLK gene _Xa21_ originated from _Oryza longistaminata_, a wild rice species
+  + confers broad-spectrum resistance to _Xoo_
+- _Xa3/Xa26_ interacts with OsSERK2 and OsTPI1.1 to mediate resistance
+- _Xa4_ encodes a cell wall-associated kinase that confers race-specific resistance to _Xoo_ at all stages of rice growth
+  + found the almost all _indica_ hybrid rice cultivars in China
+  + prevents _Xoo_ invasion by reinforcing the call wall with phytoalexins, sakuranetin, and momilactone A
+  + can increase mechanical strength of the culm to enhance lodging tolerance
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12284-019-0358-y/MediaObjects/12284_2019_358_Fig2_HTML.png?as=webp){fig-align="center" #fig-rlk-genes}
+
+### Sugar Will Eventually be Exported Transporter (SWEET) Genes
+
+- encode for a family of sugar efflux transporters 
+- play a vital role in pollen nutrition, senescence, seed filling, and plant-pathogen interaction
+- there are 22 SWEET genes in rice which are grouped into four clades
+- hijacked by TAL effectors of the pathogen for their growth and virulence
+- _xa13_ (or _Os8N3_, _OsSWEET11_) confers specific resistance to _Xoo_ race 6
+  + dominant allele (_Xa13_) is needed by _Xoo_ (and _Rhizoctonia solani_) to promote the expression of its TALE effector
+  + recessive allele (_xa13_) does not induce expression
+  + also cooperates with copper transporters (COPT1, COPT5) to remove toxic Cu from xylem vessels where the pathogen multiplies and spreads
+  + _Xa13_-silenced plants had low fertility, implicating its role in pollination
+- _Xa25_ (or _OsSWEET13_) confers race-specific resistance to _Xoo_ strain PXO339
+- _Xa41_ (or _Os11N3_, _OsSWEET14_) is the susceptibility gene for different _Xoo_ strains
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12284-019-0358-y/MediaObjects/12284_2019_358_Fig3_HTML.png?as=webp){fig-align="center" #fig-sweet-genes}
+
+### Executor Genes
+
+- _Xa27_, _Xa10_, and _Xa23_ function as promoter traps which are activated by TALEs and trigger defense responses
+  + _Xa27_ from _O. minuta_ confers broad-spectrum resistance
+  + _Xa10_ confers resistance to some Philippine races
+  + _Xa23_ from _O. rufipogon_ confers extremely broad spectrum resistance at all growth stages of rice
+
+### Other Genes
+
+- _Xa1_ from _japonica_ cultivar is the only cloned gene that confers _Xoo_ resistanec in the rice genome
